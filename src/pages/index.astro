@@ -1,0 +1,35 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>nooh.tansony</h1>
+			<p class="lead">A minimal developer blog in English.</p>
+			<p>
+				I write about software engineering, product decisions, and practical lessons from building things.
+			</p>
+			<p>
+				Start with the latest posts in <a href="/blog">Posts</a>.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.lead {
+		font-size: 1.2rem;
+		color: rgb(var(--gray));
+		margin-top: 0.3rem;
+	}
+</style>
