@@ -21,7 +21,8 @@ const BASE_PATH = BASE.endsWith('/') ? BASE : `${BASE}/`;
 	header {
 		padding: 1.25rem 1rem;
 		border-bottom: 1px solid rgb(var(--gray-light));
-		background: #fff;
+		background: rgb(var(--bg));
+		backdrop-filter: saturate(140%) blur(4px);
 	}
 	nav {
 		display: flex;

@@ -1,11 +1,25 @@
 :root {
-	--accent: #111111;
-	--accent-dark: #000000;
+	--accent: #6d28d9;
+	--accent-dark: #5b21b6;
 	--black: 17, 17, 17;
 	--gray: 110, 110, 110;
 	--gray-light: 235, 235, 235;
 	--gray-dark: 35, 35, 35;
 	--bg: 255, 255, 255;
+	--box-shadow: 0 12px 30px rgba(41, 17, 74, 0.15);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--accent: #a78bfa;
+		--accent-dark: #c4b5fd;
+		--black: 250, 245, 255;
+		--gray: 172, 157, 196;
+		--gray-light: 58, 46, 79;
+		--gray-dark: 225, 215, 241;
+		--bg: 12, 9, 20;
+		--box-shadow: 0 14px 36px rgba(0, 0, 0, 0.45);
+	}
 }
 
 * {
