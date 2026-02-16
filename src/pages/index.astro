@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const BASE = import.meta.env.BASE_URL;
+const BASE_PATH = BASE.endsWith('/') ? BASE : `${BASE}/`;
 ---
 
 <!doctype html>
@@ -21,7 +22,7 @@ const BASE = import.meta.env.BASE_URL;
 				I write about software engineering, product decisions, and practical lessons from building things.
 			</p>
 			<p>
-				Start with the latest posts in <a href={`${BASE}blog/`}>Posts</a>.
+				Start with the latest posts in <a href={`${BASE_PATH}blog/`}>Posts</a>.
 			</p>
 		</main>
 		<Footer />
