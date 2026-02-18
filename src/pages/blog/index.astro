@@ -102,7 +102,7 @@ const BASE_PATH = BASE.endsWith('/') ? BASE : `${BASE}/`;
 									)}
 									<h4 class="title">{post.data.title}</h4>
 									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
+										<FormattedDate date={post.data.pubDate} includeTime={true} />
 									</p>
 								</a>
 							</li>
