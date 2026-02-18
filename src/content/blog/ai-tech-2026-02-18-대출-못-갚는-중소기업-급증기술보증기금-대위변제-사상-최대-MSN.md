@@ -1,8 +1,8 @@
 ---
-title: "대출 못 갚는 중소기업 급증…기술보증기금 대위변제 사상 최대 - MSN"
-description: "대출 못 갚는 중소기업 급증…기술보증기금 대위변제 사상 최대 - MSN"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: '대출 못 갚는 중소기업 급증…기술보증기금 대위변제 사상 최대 - MSN'
+description: '대출 못 갚는 중소기업 급증…기술보증기금 대위변제 사상 최대 - MSN'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약

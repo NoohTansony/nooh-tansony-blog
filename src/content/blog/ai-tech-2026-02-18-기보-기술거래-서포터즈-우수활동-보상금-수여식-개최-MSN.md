@@ -1,8 +1,8 @@
 ---
-title: "기보, '기술거래 서포터즈 우수활동 보상금 수여식' 개최 - MSN"
-description: "기보, '기술거래 서포터즈 우수활동 보상금 수여식' 개최 - MSN"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: '기보, ''기술거래 서포터즈 우수활동 보상금 수여식'' 개최 - MSN'
+description: '기보, ''기술거래 서포터즈 우수활동 보상금 수여식'' 개최 - MSN'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약

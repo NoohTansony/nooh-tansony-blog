@@ -1,8 +1,8 @@
 ---
-title: "Tesla 기술이 적용된 접이식 주택이 저렴한 가격과 태양 에너지 시스템으로 브라질에 상륙했습니다. - Mix Vale"
-description: "Tesla 기술이 적용된 접이식 주택이 저렴한 가격과 태양 에너지 시스템으로 브라질에 상륙했습니다. - Mix Vale"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: 'Tesla 기술이 적용된 접이식 주택이 저렴한 가격과 태양 에너지 시스템으로 브라질에 상륙했습니다. - Mix Vale'
+description: 'Tesla 기술이 적용된 접이식 주택이 저렴한 가격과 태양 에너지 시스템으로 브라질에 상륙했습니다. - Mix Vale'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약

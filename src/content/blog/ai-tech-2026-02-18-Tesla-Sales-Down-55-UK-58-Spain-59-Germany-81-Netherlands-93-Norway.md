@@ -1,8 +1,8 @@
 ---
-title: "[HN] Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway"
-description: "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: '[HN] Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway'
+description: 'Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약

@@ -1,8 +1,8 @@
 ---
-title: "[HN] Show HN: I wrote a technical history book on Lisp"
-description: "Show HN: I wrote a technical history book on Lisp"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: '[HN] Show HN: I wrote a technical history book on Lisp'
+description: 'Show HN: I wrote a technical history book on Lisp'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약

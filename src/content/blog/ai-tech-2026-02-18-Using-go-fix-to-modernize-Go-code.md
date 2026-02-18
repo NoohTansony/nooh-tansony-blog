@@ -1,8 +1,8 @@
 ---
-title: "[HN] Using go fix to modernize Go code"
-description: "Using go fix to modernize Go code"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: '[HN] Using go fix to modernize Go code'
+description: 'Using go fix to modernize Go code'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약

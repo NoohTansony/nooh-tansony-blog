@@ -1,8 +1,8 @@
 ---
-title: "LG CNS, '오픈AI 론치 센터' 신설...챗GPT 엔터프라이즈 확산한다 - 디일렉"
-description: "LG CNS, '오픈AI 론치 센터' 신설...챗GPT 엔터프라이즈 확산한다 - 디일렉"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: 'LG CNS, ''오픈AI 론치 센터'' 신설...챗GPT 엔터프라이즈 확산한다 - 디일렉'
+description: 'LG CNS, ''오픈AI 론치 센터'' 신설...챗GPT 엔터프라이즈 확산한다 - 디일렉'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약

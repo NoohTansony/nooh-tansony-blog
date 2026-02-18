@@ -1,8 +1,8 @@
 ---
-title: "LG CNS, 오픈AI 기업용 챗GPT 도입·판매 파트너 계약 - 중앙일보"
-description: "LG CNS, 오픈AI 기업용 챗GPT 도입·판매 파트너 계약 - 중앙일보"
-pubDate: "Feb 18 2026"
-heroImage: ""
+title: 'LG CNS, 오픈AI 기업용 챗GPT 도입·판매 파트너 계약 - 중앙일보'
+description: 'LG CNS, 오픈AI 기업용 챗GPT 도입·판매 파트너 계약 - 중앙일보'
+pubDate: 'Feb 18 2026'
+heroImage: ''
 ---
 
 ## 한 줄 요약
